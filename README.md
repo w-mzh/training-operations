@@ -7,7 +7,7 @@ Scripts en overige info bij de *operations training*
 
 ## Onderdelen:
 - Pizza party
-- Scrum
+- Scrum en agile werken
 - Dev Ops
 - Python
 - Git versiebeheer
